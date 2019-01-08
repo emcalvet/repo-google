@@ -1,1 +1,1 @@
-Voici ma copie de Google, tu peux la regarder ici : https://emcalvet.github.io/repo-google/ !
+Voici ma copie de Google, tu peux la regarder ici : https://emcalvet.github.io/repo-google/ ! J'ai bossé en pair-coding avec Karel Cloarec et c'était très cool ✌
